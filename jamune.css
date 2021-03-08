@@ -1,0 +1,277 @@
+.firstsection{
+    background: linear-gradient(to right,#C9161D,#8B0304);  
+}
+.fullwebsite{
+    width: 100%;
+}
+.firstcontent{
+    display: flex;
+}
+.firstcontent .logo{
+    margin-left: 110px;
+    margin-top: 15px;
+}
+.listcontent{
+      margin-top: 15px;
+}
+.listcontent ul{
+
+}
+.listcontent ul li{
+    display: inline-block;
+    padding: 0px 15px;
+}
+.listcontent ul li a{
+    text-decoration: none;
+    color: #ffffffed;
+  font-size: 20px;
+}
+.listcontent ul li a:hover{
+      color: rgb(247, 91, 91);
+}
+.icon{
+
+}
+.icon ul li{
+    display: inline-block;
+    padding: 0px 10px;
+    font-size: 25px;
+    margin-top: 8px;
+
+}
+.icon ul li a{
+    text-decoration: none;
+    color: white;
+}
+.icon ul li a:hover{
+    color: rgb(247, 91, 91);
+}
+.secondsection{
+    margin-top: 30px;
+}
+.secondimagecontent{
+    background-image: url(pic1.jpg);
+    width: 700px;
+    height: 400px;
+    background-repeat: no-repeat;
+    margin-left: 75px;
+}
+.secondone{
+      color: white;
+      margin-top: 5px;
+}
+.secondimagecontent h2{
+    color: white;
+    margin-top: 250px;
+}
+.secondimagecontent h2:hover{
+    color: rgb(185, 24, 24);
+}
+.secondimagecontent p{
+   color: white;
+   
+}
+.secondsidecontent{
+   margin-left: 10px;
+  margin-top: -12px;
+}
+.secondsidecontent h6{
+    padding: 16px 5px;
+}
+.secondsidecontent h6:hover{
+    color: rgb(185, 24, 24);
+}
+.lineone{
+    background: #8080809e;
+    height: 1px;
+    width: 100%;
+}
+.bkash{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.fourthsection{
+     margin-bottom: 40px;
+}
+.fourthsection h4{
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.fourthsection h4:hover{
+    color: rgb(185, 24, 24);
+}
+.twoimg{
+    margin-top: 30px;
+}
+.fifthsection{
+    margin-bottom: 30px;
+    
+}
+.fifthsectioncontent .lineone{
+   margin-bottom:2px;
+   
+}
+.fifthsectioncontent h3,h4{
+    font-weight: bold;
+}
+.fifthsectioncontent h6{
+    padding: 10px 5px;
+    font-weight: 500;
+}
+.fifthsectioncontent h6:hover{
+    color: rgb(185, 24, 24);
+}
+.sixthsection{
+    margin-bottom: 30px;
+}
+
+.sixthcontentone{
+    border-bottom: 1px solid #80808052;
+}
+.hoverone:hover{
+    color: rgb(185, 24, 24);
+}
+.sixthcontenttwo{
+    margin-top: 5px;
+}
+.sixthcontenttwo h5{
+    font-weight: bold;
+}
+.seventhsection{
+    margin-bottom: 30px;
+}
+.lineborder{
+    border-bottom: 1px solid #80808052;
+    margin-bottom: 5px;
+    margin-left:-10px;
+}
+   
+.seventhimagecontent{
+    margin-left: -12px;
+    margin-right: 10px;
+}
+.seventhimagecontent h5{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.seventhsidecontent h6{
+    padding: 7px 0px;
+    
+}
+.seventhsidecontent{
+    margin-left: --10px;
+}
+.seventhsidecontent h6:hover{
+    color: rgb(185, 24, 24);
+}
+.coronalist{
+
+}
+.head{
+    background:#8B0304;
+}
+.head h4{
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+}
+.headtwo{
+   display: flex;
+   margin-bottom: 5px;
+}
+.bangladesh{
+   background: green;
+   color: white;
+   width: 50%;
+   text-align: center;
+   margin-top: 3px;
+}
+.world{
+    background: red;
+    color: white;
+    width: 50%;
+    text-align: center;
+    margin-top: 3px;
+}
+.coronaresult{
+     
+}
+.coronaresult h5{
+     text-align: center;
+}
+.coronaresult .box1{
+      background: rgb(75, 145, 75);
+      padding: 10px;
+      color: white;
+      border-radius: 10px;
+} 
+.coronaresult .box2{
+    background: rgb(8, 68, 8);
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+} 
+.coronaresult .box3{
+    background: rgb(209, 81, 42);
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+} 
+.coronaresult .box4{
+  background: rgb(131, 52, 7);
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+} 
+.spaceone{
+    margin-top: 30px;
+}
+.minusmargin{
+    margin-top: -200px;
+}
+.marginleft{
+    margin-left: 20px;
+}
+.minusmarginone{
+    margin-top: -250px;
+}
+.minusmargintwo{
+    margin-top:-340px;
+}
+.fourrow{
+    margin-top: -180px;
+    margin-left: -15px;
+}
+.margintop{
+    margin-left: 20px;
+    margin-top: -300px;
+}
+.onecontainer{
+    margin-top: 30px;
+}
+.oneleft{
+    margin-left: 20px;
+    margin-top: -125px;
+}
+.twoleft{
+    margin-top: 0px;
+    margin-left: 20px;
+}
+.weightpara{
+    font-weight: normal;
+}
+.threeleft{
+    margin-left: 20px;
+    margin-top: -100px;
+}
+.copyright{
+    background: white;
+    border-top: 1px solid rgb(190, 184, 184);
+    
+    
+}
+.copyright p{
+   font-size: 14px;
+   text-align: center;
+}

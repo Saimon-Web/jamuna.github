@@ -1,0 +1,13 @@
+/*tablet mode*/
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .fullwebsite{
+       width: 100%;
+    }
+    .secondsidecontent h6 {
+        padding: 10px 0px;
+    }
+    .secondimageconten{
+        width: 500px;
+    }
+
+    }
